@@ -37,6 +37,7 @@
         </q-toolbar-title>
       </q-toolbar>
     </q-header>
+    <h2>sobirjon</h2>
 
     <q-page-container>
       <router-view />
